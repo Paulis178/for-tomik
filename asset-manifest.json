@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/for-tomik/static/css/main.47c380c2.css",
+    "main.js": "/for-tomik/static/js/main.18a3febf.js",
+    "static/js/787.c6a9a21d.chunk.js": "/for-tomik/static/js/787.c6a9a21d.chunk.js",
+    "static/media/logo.svg": "/for-tomik/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/for-tomik/index.html",
+    "main.47c380c2.css.map": "/for-tomik/static/css/main.47c380c2.css.map",
+    "main.18a3febf.js.map": "/for-tomik/static/js/main.18a3febf.js.map",
+    "787.c6a9a21d.chunk.js.map": "/for-tomik/static/js/787.c6a9a21d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47c380c2.css",
+    "static/js/main.18a3febf.js"
+  ]
+}
